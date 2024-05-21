@@ -25,7 +25,7 @@ public class Tugaspertemuan8 {
         segitiga.setTerisi(terisi);
 
         System.out.println("\nDetail segitiga:");
-        System.out.println(segitiga);
+        System.out.println(segitiga.toString();
         System.out.println("Luas: " + segitiga.getArea());
         System.out.println("Keliling: " + segitiga.getPerimeter());
         System.out.println("Warna: " + segitiga.getWarna());
